@@ -1,0 +1,2 @@
+# velice
+AI Assistant project
